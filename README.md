@@ -14,3 +14,7 @@
 - Coz of its Quality encode It takes little time to Compress.
 - For now i set it for maximum 5 Processes at a time.
 - Its Running Without Db so Block /ban /Broadcast Feature is currently Not available.
+## Credits
+
+- [DANISH](https://t.me/danish_00)
+- 
